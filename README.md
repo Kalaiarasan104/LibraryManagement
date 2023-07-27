@@ -15,7 +15,7 @@ InvalidDateInLibraryException,
 InvalidBookException
 
 # Functional Class
-Library
+Librarian
 
 # Driver Class
-Librarian
+Library
